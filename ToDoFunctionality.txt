@@ -1,0 +1,10 @@
+1. Check if info is valid (empty text fields, not numbers)
+2. Limit submit to once a day
+3. Let user choose for what date he wants to input
+4. Add more detailed statistics (weeky,monthly,yearly)
+5. Add scroll to text area
+6. Add option to change data for a certain date
+7. Add live date and clock
+8. Add loading screen
+9. Add some greetings when starting app
+10. Add music
