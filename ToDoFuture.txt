@@ -1,0 +1,5 @@
+1. Add scroll to text area
+2. Add live date and clock
+3. Add loading screen
+4. Add greetings when stating app
+5. Add music

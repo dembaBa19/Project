@@ -1,0 +1,2 @@
+1. Add background color
+2. Change button, lables, fields and frame design (font, colours, size etc.)
